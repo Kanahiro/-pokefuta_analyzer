@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "pokefuta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "lg": "士別市", "lat": 44.175966066495079, "lon": 142.39240006005673 }, "geometry": { "type": "Point", "coordinates": [ 142.39240006005673, 44.175966066495079 ] } },
+{ "type": "Feature", "properties": { "lg": "比布町", "lat": 43.875060133839362, "lon": 142.47165627517455 }, "geometry": { "type": "Point", "coordinates": [ 142.471656275174553, 43.875060133839362 ] } },
+{ "type": "Feature", "properties": { "lg": "足寄町", "lat": 43.244223440168135, "lon": 143.54675023887418 }, "geometry": { "type": "Point", "coordinates": [ 143.546750238874182, 43.244223440168135 ] } },
+{ "type": "Feature", "properties": { "lg": "石狩市", "lat": 43.585900982618085, "lon": 141.42389646859877 }, "geometry": { "type": "Point", "coordinates": [ 141.42389646859877, 43.585900982618085 ] } },
+{ "type": "Feature", "properties": { "lg": "恵庭市", "lat": 42.897147086456805, "lon": 141.58583072949921 }, "geometry": { "type": "Point", "coordinates": [ 141.585830729499207, 42.897147086456805 ] } },
+{ "type": "Feature", "properties": { "lg": "洞爺湖町", "lat": 42.566129506675445, "lon": 140.81905724329786 }, "geometry": { "type": "Point", "coordinates": [ 140.819057243297863, 42.566129506675445 ] } },
+{ "type": "Feature", "properties": { "lg": "森町", "lat": 42.108865115622109, "lon": 140.57290522849647 }, "geometry": { "type": "Point", "coordinates": [ 140.572905228496467, 42.108865115622109 ] } },
+{ "type": "Feature", "properties": { "lg": "上ノ国町", "lat": 41.808412650721777, "lon": 140.09532501927868 }, "geometry": { "type": "Point", "coordinates": [ 140.095325019278675, 41.808412650721777 ] } },
+{ "type": "Feature", "properties": { "lg": "天塩町", "lat": 44.884537776053811, "lon": 141.74799403788811 }, "geometry": { "type": "Point", "coordinates": [ 141.747994037888105, 44.884537776053811 ] } },
+{ "type": "Feature", "properties": { "lg": "稚内市", "lat": 45.417090539365219, "lon": 141.676181866153 }, "geometry": { "type": "Point", "coordinates": [ 141.676181866153001, 45.417090539365219 ] } },
+{ "type": "Feature", "properties": { "lg": "豊富町", "lat": 45.103394965118255, "lon": 141.77859964096157 }, "geometry": { "type": "Point", "coordinates": [ 141.778599640961573, 45.103394965118255 ] } },
+{ "type": "Feature", "properties": { "lg": "紋別市", "lat": 44.334669948041004, "lon": 143.37218366193034 }, "geometry": { "type": "Point", "coordinates": [ 143.372183661930336, 44.334669948041004 ] } },
+{ "type": "Feature", "properties": { "lg": "遠軽町", "lat": 44.02187205486085, "lon": 143.49716377118145 }, "geometry": { "type": "Point", "coordinates": [ 143.497163771181448, 44.02187205486085 ] } },
+{ "type": "Feature", "properties": { "lg": "大空町", "lat": 43.915540807050832, "lon": 144.17138703347621 }, "geometry": { "type": "Point", "coordinates": [ 144.171387033476208, 43.915540807050832 ] } },
+{ "type": "Feature", "properties": { "lg": "新得町", "lat": 43.082678444318155, "lon": 142.8329121722835 }, "geometry": { "type": "Point", "coordinates": [ 142.8329121722835, 43.082678444318155 ] } }
+]
+}
